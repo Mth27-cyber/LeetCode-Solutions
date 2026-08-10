@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Math
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
