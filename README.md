@@ -13,14 +13,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Math
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,12 +32,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
