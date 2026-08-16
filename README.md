@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0279-perfect-squares](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -92,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
