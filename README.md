@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1563-stone-game-v](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 ## Math
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mth27-cyber/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
